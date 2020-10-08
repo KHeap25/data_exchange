@@ -1,0 +1,5 @@
+name;			id;		trainId;	category;	catId;	hasInstances;	ignoreInEval;	color_r;	color_g;	color_b;
+unlabeled;		0;		0;			'void';		0;		False;			False;			0;			0;			0;
+left lane;		1;		1;			'void';		0;		False;			False;			149;		60;			0;
+center line;	2;		2;			'void';		0;		False;			False;			0;			30;			89;
+right lane;		3;		3;			'void';		0;		False;			False;			0;			78;			0;
