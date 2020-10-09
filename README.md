@@ -1,2 +1,2 @@
 # data_exchange
-first data exchange for FasterSeg
+First data exchange folders for the research project "Semantic Segmentation for a autonomous model car" at university of esslingen.
